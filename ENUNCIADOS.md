@@ -138,3 +138,13 @@
 
 ---
 
+### Exercício 16: tresIguais
+**Nome original:** `tresIguales`
+**Tradução:** Defina a função que verifica se os três elementos x, y e z são iguais.
+
+**Código:** `src/basico/tresIguais.js`
+**Teste:** `test/basico/tresIguais.test.js`
+**Status:** ✅ Concluído
+
+---
+
