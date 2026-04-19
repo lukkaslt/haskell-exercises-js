@@ -128,3 +128,13 @@
 
 ---
 
+### Exercício 15: mediano
+**Nome original:** `mediano`
+**Tradução:** Defina a função que recebe três números x, y e z e retorna o número mediano dos três.
+
+**Código:** `src/basico/mediano.js`
+**Teste:** `test/basico/mediano.test.js`
+**Status:** ✅ Concluído
+
+---
+

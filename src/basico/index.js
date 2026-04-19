@@ -11,3 +11,4 @@ export { interior } from './interior.js';
 export { finais } from './finais.js';
 export { segmento } from './segmento.js';
 export { extremos } from './extremos.js';
+export { mediano } from './mediano.js';
