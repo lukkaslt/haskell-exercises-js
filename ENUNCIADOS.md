@@ -57,3 +57,13 @@
 **Status:** ✅ Concluído
 
 ---
+
+### Exercícios 7 e 8: rotacionar
+**Nome original:** `rota1` e `rota`
+**Tradução:** Defina a função que recebe um número `n` e uma lista `xs`, e retorna a lista com os `n` primeiros elementos movidos para o final. `rota1` é o caso específico onde `n = 1`.
+
+**Código:** `src/basico/rotacionar.js`
+**Teste:** `test/basico/rotacionar.test.js`
+**Status:** ✅ Concluído
+
+---
