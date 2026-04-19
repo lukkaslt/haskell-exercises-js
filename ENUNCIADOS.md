@@ -108,3 +108,13 @@
 
 ---
 
+### Exercício 13: segmento
+**Nome original:** `segmento`
+**Tradução:** Defina a função que recebe m, n e uma lista xs e retorna a lista dos elementos de xs compreendidos entre as posições m e n.
+
+**Código:** `src/basico/segmento.js`
+**Teste:** `test/basico/segmento.test.js`
+**Status:** ✅ Concluído
+
+---
+

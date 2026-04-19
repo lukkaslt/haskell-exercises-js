@@ -9,3 +9,4 @@ export { minimoEMaximo } from './minimoEMaximo.js';
 export { palindromo } from './palindromo.js';
 export { interior } from './interior.js';
 export { finais } from './finais.js';
+export { segmento } from './segmento.js';
