@@ -98,3 +98,13 @@
 
 ---
 
+### Exercício 12: finais
+**Nome original:** `finales`
+**Tradução:** Defina a função que recebe n e uma lista xs e retorna a lista formada pelos n últimos elementos de xs.
+
+**Código:** `src/basico/finais.js`
+**Teste:** `test/basico/finais.test.js`
+**Status:** ✅ Concluído
+
+---
+
