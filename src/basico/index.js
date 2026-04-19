@@ -5,3 +5,4 @@ export { areaCoroaCircular } from './areaCoroaCircular.js';
 export { ultimoDigito } from './ultimoDigito.js';
 export { maiorDeTres } from './maiorDeTres.js';
 export { rotacionar } from './rotacionar.js';
+export { minimoEMaximo } from './minimoEMaximo.js';

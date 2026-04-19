@@ -67,3 +67,14 @@
 **Status:** ✅ Concluído
 
 ---
+
+### Exercício 9: minimoEMaximo
+**Nome original:** `rango`
+**Tradução:** Defina a função que recebe uma lista `xs` e retorna a lista formada pelo menor e maior elemento de `xs`.
+
+**Código:** `src/basico/minimoEMaximo.js`
+**Teste:** `test/basico/minimoEMaximo.test.js`
+**Status:** ✅ Concluído
+
+---
+
