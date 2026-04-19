@@ -25,3 +25,13 @@
 **Código:** `src/basico/volumeEsfera.js`  
 **Teste:** `test/basico/volumeEsfera.test.js`  
 **Status:** ✅ Concluído
+
+### Exercício 4: areaCoroaCircular
+**Nome original:** `areaDeCoronaCircular`  
+**Tradução:** Defina a função que recebe o raio interno `r1` e o raio externo `r2` de uma coroa circular e retorna sua área. Fórmula: A = π × (r2² - r1²).
+
+**Código:** `src/basico/areaCoroaCircular.js`  
+**Teste:** `test/basico/areaCoroaCircular.test.js`  
+**Status:** ✅ Concluído
+
+---
