@@ -1,24 +1,27 @@
-# Enunciados Traduzidos
+### Exercício 1: mediaDe3
+**Nome original:** `media3`  
+**Tradução:** Defina a função `mediaDe3` que retorna a média aritmética de x, y e z.
 
-## Capítulo 1: Definições Elementares de Funções
+**Código:** `src/basico/mediaDe3.js`  
+**Teste:** `test/basico/mediaDe3.test.js`  
+**Status:** ✅ Concluído
 
-### Exercício 1: media3
-**Tradução:** Defina a função `media3` que retorna a média aritmética de x, y e z.
-
-**Exemplos:**
-
-```
-media3 1 3 8 == 4.0
-media3 (-1) 0 7 == 2.0
-media3 (-3) 0 3 == 0.0
-```
+---
 
 ### Exercício 2: somaMoedas
-**Tradução:** Defina a função `somaMoedas` que recebe a quantidade de moedas de 1€, 2€, 5€, 10€ e 20€ e retorna o valor total em euros.
+**Nome original:** `sumaMonedas`  
+**Tradução:** Defina a função `somaMoedas` que recebe a quantidade de moedas de 1€, 2€, 5€, 10€ e 20€ e retorna o valor total.
 
-**Exemplos:**
-```
-somaMoedas 0 0 0 0 1 == 20
-somaMoedas 0 0 8 0 3 == 100
-somaMoedas 1 1 1 1 1 == 38
-```
+**Código:** `src/basico/somaMoedas.js`  
+**Teste:** `test/basico/somaMoedas.test.js`  
+**Status:** ✅ Concluído
+
+---
+
+### Exercício 3: volumeEsfera
+**Nome original:** `volumenEsfera`  
+**Tradução:** Defina a função `volumeEsfera` que recebe o raio e retorna o volume. V = (4/3) * π * r³.
+
+**Código:** `src/basico/volumeEsfera.js`  
+**Teste:** `test/basico/volumeEsfera.test.js`  
+**Status:** ✅ Concluído

@@ -1,2 +1,3 @@
 export { media3 } from './media3.js';
-export { sumaMonedas } from './sumaMonedas.js';
+export { somaMoedas } from './somaMoedas.js';
+export { volumeEsfera } from './volumeEsfera.js';
