@@ -78,3 +78,12 @@
 
 ---
 
+### Exercício 10: palindromo
+**Nome original:** `palindromo`
+**Tradução:** Defina a função que verifica se uma lista xs é palíndromo, ou seja, é igual lida da esquerda para direita e da direita para esquerda.
+
+**Código:** `src/basico/palindromo.js`
+**Teste:** `test/basico/palindromo.test.js`
+**Status:** ✅ Concluído
+
+---
