@@ -35,3 +35,13 @@
 **Status:** ✅ Concluído
 
 ---
+
+### Exercício 5: ultimoDigito
+**Nome original:** `ultimaCifra`  
+**Tradução:** Defina a função que recebe um número inteiro `x` e retorna seu último dígito. Use o resto da divisão por 10.
+
+**Código:** `src/basico/ultimoDigito.js`  
+**Teste:** `test/basico/ultimoDigito.test.js`  
+**Status:** ✅ Concluído
+
+---
