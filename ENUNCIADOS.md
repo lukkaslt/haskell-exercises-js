@@ -118,3 +118,13 @@
 
 ---
 
+### Exercício 14: extremos
+**Nome original:** `extremos`
+**Tradução:** Defina a função que recebe n e uma lista xs e retorna a lista formada pelos n primeiros elementos de xs e pelos n últimos elementos de xs.
+
+**Código:** `src/basico/extremos.js`
+**Teste:** `test/basico/extremos.test.js`
+**Status:** ✅ Concluído
+
+---
+
