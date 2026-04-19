@@ -14,3 +14,4 @@ export { extremos } from './extremos.js';
 export { mediano } from './mediano.js';
 export { tresIguais } from './tresIguais.js';
 export { tresDiferentes } from './tresDiferentes.js';
+export { quatroIguais } from './quatroIguais.js';

@@ -157,3 +157,14 @@
 **Status:** ✅ Concluído
 
 ---
+
+### Exercício 18: quatroIguais
+**Nome original:** `cuatroIguales`
+**Tradução:** Defina a função que verifica se os elementos x, y, z e u são iguais. Usar tresIguais.
+
+**Código:** `src/basico/quatroIguais.js`
+**Teste:** `test/basico/quatroIguais.test.js`
+**Status:** ✅ Concluído
+
+---
+
