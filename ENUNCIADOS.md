@@ -26,6 +26,8 @@
 **Teste:** `test/basico/volumeEsfera.test.js`  
 **Status:** ✅ Concluído
 
+---
+
 ### Exercício 4: areaCoroaCircular
 **Nome original:** `areaDeCoronaCircular`  
 **Tradução:** Defina a função que recebe o raio interno `r1` e o raio externo `r2` de uma coroa circular e retorna sua área. Fórmula: A = π × (r2² - r1²).
@@ -42,6 +44,16 @@
 
 **Código:** `src/basico/ultimoDigito.js`  
 **Teste:** `test/basico/ultimoDigito.test.js`  
+**Status:** ✅ Concluído
+
+---
+
+### Exercício 6: maiorDeTres
+**Nome original:** `maxTres`  
+**Tradução:** Defina a função que recebe três números `x`, `y` e `z` e retorna o maior deles.
+
+**Código:** `src/basico/maiorDeTres.js`  
+**Teste:** `test/basico/maiorDeTres.test.js`  
 **Status:** ✅ Concluído
 
 ---
