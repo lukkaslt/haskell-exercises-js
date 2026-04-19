@@ -148,3 +148,12 @@
 
 ---
 
+### Exercício 17: tresDiferentes
+**Nome original:** `tresDiferentes`
+**Tradução:** Defina a função que verifica se os elementos x, y e z são distintos.
+
+**Código:** `src/basico/tresDiferentes.js`
+**Teste:** `test/basico/tresDiferentes.test.js`
+**Status:** ✅ Concluído
+
+---
