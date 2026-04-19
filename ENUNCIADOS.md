@@ -1,9 +1,9 @@
-### Exercício 1: mediaDe3
+### Exercício 1: media3
 **Nome original:** `media3`  
-**Tradução:** Defina a função `mediaDe3` que retorna a média aritmética de x, y e z.
+**Tradução:** Defina a função `media3` que retorna a média aritmética de x, y e z.
 
-**Código:** `src/basico/mediaDe3.js`  
-**Teste:** `test/basico/mediaDe3.test.js`  
+**Código:** `src/basico/media3.js`  
+**Teste:** `test/basico/media3.test.js`  
 **Status:** ✅ Concluído
 
 ---
