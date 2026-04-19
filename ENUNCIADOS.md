@@ -87,3 +87,14 @@
 **Status:** ✅ Concluído
 
 ---
+
+### Exercício 11: interior
+**Nome original:** `interior`
+**Tradução:** Defina a função que recebe uma lista xs e retorna a lista obtida eliminando os extremos de xs.
+
+**Código:** `src/basico/interior.js`
+**Teste:** `test/basico/interior.test.js`
+**Status:** ✅ Concluído
+
+---
+
